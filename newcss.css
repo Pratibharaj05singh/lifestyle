@@ -1,0 +1,41 @@
+#image{padding-top: 75px;    
+padding-bottom: 50px; 
+height: 700px;
+text-align: center;  
+color: #f8f8f8;
+background-image: url("img/1.jpg");
+background-size: cover;
+}
+#banner_content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%; 
+    margin-left: 33%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px; 
+}
+#e_content{
+    padding: 10px 0; 
+    background-color: #101010;
+    color:#9d9d9d; 
+    bottom: 0;
+    width: 100%;    
+}
+.raws{
+    margin-top: 20%;
+    margin-bottom: 50%;
+    padding-bottom: 7%;
+}
+.rext{
+    font-size: 20px;
+     margin-top: 10%;
+ 
+    padding-bottom: 7%;
+}
+#none{
+    margin-top: 20%;
+    margin-bottom:100%;
+    
+}
